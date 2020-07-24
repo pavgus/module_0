@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 # A program that guesses a computer-guessed natural number from 1 to 100 in the minimum number of attempts
 
 import numpy as np
